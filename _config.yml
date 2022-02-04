@@ -55,3 +55,5 @@ theme_colors:
   - yellow
 
 
+
+theme: jekyll-theme-midnight
